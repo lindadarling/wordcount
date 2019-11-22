@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9b3fa5f5-2812-4062-ac11-acf9e31115dd" name="tecent_centos" url="http://94.191.121.237">
+        <fileTransfer host="94.191.121.237" port="22" privateKey="C:\Users\real\.ssh\centos_密钥对的私钥" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="60000" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
